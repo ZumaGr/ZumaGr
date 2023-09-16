@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate Go developer with a strong backgr
 - **Backend Development**: Go, Node.js
 - **Databases**: PostgreSQL, MongoDB, Redis
 - **Containers & Orchestration**: Docker, Kubernetes
-- **CI/CD**: Jenkins, GitLab CI/CD
+- **CI/CD**: Jenkins, GitHub, GitLab CI/CD
 - **Version Control**: Git
 - **Testing**: Go testing framework, Jest
 - **DevOps**: Infrastructure as Code (Terraform), Azure DevOps
